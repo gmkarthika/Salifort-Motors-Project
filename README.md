@@ -1,5 +1,5 @@
 # Salifort-Motors-Project
-Build a Machine Learning model that predicts whether or not an employee will leave the company based on the data collected by HR department.
+Build a Machine Learning model(decision tree, random forest, XGBoost ) that predicts whether or not an employee will leave the company based on the data collected by HR department.
 
 **What You Are Trying to Solve or Accomplish**
 
